@@ -1,5 +1,5 @@
 # Dice Game
-
+![image](https://github.com/mouad-sellak/dices-game-python/assets/75551008/cfe06bbe-2dcf-448d-8465-12f669fa029c)
 Dice Game est un jeu de dés simple en Python où deux joueurs s'affrontent pour atteindre un score cible. Les joueurs lancent deux dés, et le score de chaque lancer est ajouté à leur total. Si la somme des dés est 7, le score de ce tour est annulé. Si les dés affichent un double, le score de ce lancer est doublé. Le premier joueur à atteindre le score cible gagne.
 
 ## Fonctionnalités
